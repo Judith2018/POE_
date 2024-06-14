@@ -9,12 +9,12 @@ The Recipe Management Application is a Windows-based software tool that allows u
 2. Features 
 These are the following features: Add, filter, and view recipes. User can input detailed recipe steps, display a pie chart of food group distribution. Clear all recipes with a single click. 
 
-4. System Requirements 
+3. System Requirements 
 Operating System: Windows 7 or higher 
 .NET Framework: 4.7.2 or higher 
 Development Environment: Visual Studio 2019 or later 
 
-5. Compilation Instructions 
+4. Compilation Instructions 
 Prerequisites, Install Visual Studio 2019 or a later version and ensure .NET Framework 4.7.2 or higher is installed. 
   
 
