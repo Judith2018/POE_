@@ -1,6 +1,8 @@
 # POE_
 Read ME FILE 
 
+https://github.com/Judith2018/POE_/edit/main/README.md
+
 1. Introduction 
 The Recipe Management Application is a Windows-based software tool that allows users to manage their recipes effectively. Users can add new recipes, filter existing ones, view recipe details, and see a pie chart distribution of food groups. 
 
@@ -37,64 +39,22 @@ From Visual Studio
 
 Start Debugging: 
 
-  
-
 Press F5 or click on the Start Debugging button (green arrow) in the toolbar. 
 
 Using the Executable: 
-
-  
-
 Navigate to the bin\Debug\net472 directory (or appropriate output directory based on your build configuration). 
 
-Run RecipeApp.exe. 
-
-From Command Line 
-
-Navigate to the Output Directory: 
-
-  
-
-bash 
-
-Copy code 
-
-cd path\to\repository\bin\Debug\net472 
-
-Run the Application: 
-
-  
-
-bash 
-
-Copy code 
-
-RecipeApp.exe 
 
 6. Changes Based on Feedback 
 
 Based on feedback from the lecturer, the following enhancements were made to the Recipe Management Application: 
+Added Recipe Steps Field, a new textbox for recipe steps was added in the Add Recipe window, allowing users to enter detailed instructions for preparing each recipe. The Recipe class was updated to include a Steps property to store these instructions. 
 
-  
-
-Added Recipe Steps Field: 
-
-  
-
-A new textbox for recipe steps was added in the Add Recipe window, allowing users to enter detailed instructions for preparing each recipe. 
-
-The Recipe class was updated to include a Steps property to store these instructions. 
-
-Displayed Steps in Recipe Details: 
-
-  
+Displayed Steps in Recipe Details:
 
 The Recipe Details window was modified to display the recipe steps along with other details like ingredients, food group, and calories. 
 
 Implemented Food Group Pie Chart: 
-
-  
-
 A feature was added to display a pie chart that shows the distribution of different food groups across the recipes, providing users with a visual representation of their diet composition. 
 
 These changes enhance the application's functionality by making it more user-friendly and informative. 
