@@ -14,38 +14,15 @@ Development Environment: Visual Studio 2019 or later
 
 4. Compilation Instructions 
 Prerequisites, Install Visual Studio 2019 or a later version and ensure .NET Framework 4.7.2 or higher is installed. 
-
-Steps to Compile 
-Clone the Repository: 
-
-  
-
-bash 
-
-Copy code 
-
-git clone https://github.com/username/recipe-management-app.git 
-
-Replace https://github.com/username/recipe-management-app.git with your repository URL. 
-
   
 
 Open the Project in Visual Studio: 
-
-  
-
 Navigate to the cloned repository directory and open RecipeApp.sln using Visual Studio. 
 
 Restore NuGet Packages: 
-
-  
-
 Visual Studio will prompt you to restore NuGet packages. Click Restore to download and install the required packages, including OxyPlot. 
 
-Build the Project: 
-
-  
-
+Build the Project:
 In the Solution Explorer, right-click on the solution and select Build Solution or press Ctrl + Shift + B. 
 
 Verify Build Success: 
