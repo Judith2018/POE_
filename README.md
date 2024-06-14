@@ -1,5 +1,5 @@
 # POE_
-Read ME FILE 
+READ ME FILE 
 
 https://github.com/Judith2018/POE_/edit/main/README.md
 
