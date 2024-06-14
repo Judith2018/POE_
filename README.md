@@ -4,7 +4,7 @@ READ ME FILE
 https://github.com/Judith2018/POE_/edit/main/README.md
 
 1. Introduction
-The Recipe Management Application is a Windows-based software tool that allows users to manage their recipes effectively. Users can add new recipes, filter existing ones, view recipe details, and see a pie chart distribution of food groups. 
+The Recipe  Management Application is a Windows-based software tool that allows users to manage their recipes effectively. Users can add new recipes, filter existing ones, view recipe details, and see a pie chart distribution of food groups. 
 
 2. Features 
 These are the following features: Add, filter, and view recipes. User can input detailed recipe steps, display a pie chart of food group distribution. Clear all recipes with a single click. 
